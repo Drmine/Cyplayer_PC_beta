@@ -1,0 +1,19 @@
+C:\Users\94357\Documents\Visual Studio 2015\Projects\Cy播放器\Cy播放器\bin\Debug\Cy播放器.exe.config
+C:\Users\94357\Documents\Visual Studio 2015\Projects\Cy播放器\Cy播放器\bin\Debug\Cy播放器.exe
+C:\Users\94357\Documents\Visual Studio 2015\Projects\Cy播放器\Cy播放器\bin\Debug\Cy播放器.pdb
+C:\Users\94357\Documents\Visual Studio 2015\Projects\Cy播放器\Cy播放器\obj\Debug\Cy播放器.csprojResolveAssemblyReference.cache
+C:\Users\94357\Documents\Visual Studio 2015\Projects\Cy播放器\Cy播放器\obj\Debug\Cy播放器.Form1.resources
+C:\Users\94357\Documents\Visual Studio 2015\Projects\Cy播放器\Cy播放器\obj\Debug\Cy播放器.Properties.Resources.resources
+C:\Users\94357\Documents\Visual Studio 2015\Projects\Cy播放器\Cy播放器\obj\Debug\Cy播放器.csproj.GenerateResource.Cache
+C:\Users\94357\Documents\Visual Studio 2015\Projects\Cy播放器\Cy播放器\obj\Debug\Cy播放器.exe
+C:\Users\94357\Documents\Visual Studio 2015\Projects\Cy播放器\Cy播放器\obj\Debug\Cy播放器.pdb
+D:\OneDrive\Study\C#\Cy播放器\Cy播放器\bin\Debug\Cy播放器.exe.config
+D:\OneDrive\Study\C#\Cy播放器\Cy播放器\obj\Debug\Cy播放器.exe
+D:\OneDrive\Study\C#\Cy播放器\Cy播放器\obj\Debug\Cy播放器.pdb
+D:\OneDrive\Study\C#\Cy播放器\Cy播放器\bin\Debug\Cy播放器.exe
+D:\OneDrive\Study\C#\Cy播放器\Cy播放器\bin\Debug\Cy播放器.pdb
+D:\OneDrive\Study\C#\Cy播放器\Cy播放器\obj\Debug\Cy播放器.csprojResolveAssemblyReference.cache
+D:\OneDrive\Study\C#\Cy播放器\Cy播放器\obj\Debug\Cy播放器.Form1.resources
+D:\OneDrive\Study\C#\Cy播放器\Cy播放器\obj\Debug\Cy播放器.Properties.Resources.resources
+D:\OneDrive\Study\C#\Cy播放器\Cy播放器\obj\Debug\Cy播放器.csproj.GenerateResource.Cache
+D:\OneDrive\Study\C#\Cy播放器\Cy播放器\obj\Debug\Cy播放器.Form2.resources
